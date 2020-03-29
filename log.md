@@ -11,3 +11,8 @@
 **Today's Progress**: Read a [re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) on MDN to rediscover how JavaScript works, and new quirks that were added since ES6. Worked through the [React tutorial](https://reactjs.org/tutorial/tutorial.html#why-immutability-is-important) to teach myself React by doing. It went well, and React seems like a decent framework as it was quite fun to work with and made sense all the way. I'll use React for the frontend of the app.
 
 **Link to work**: No code was written for `build-my-app` today :(
+
+## Day 2: March 29, 2020
+**Today's Progress**: Started the boilerplate for the frontend of `build-my-app` using Create React. I added React-Bootstrap to my application as well to have some better visuals. I want to include a bootstrap theme to give the website a little bit more charm. So, the rest of my time went to looking at possible Bootstrap themes. One that I liked in particular is the [Lazy kit](https://technext.github.io/lazy-kit), which I'm probably going to use. I still need to add it in to the application though.
+
+**Link to work:** [Build my app](https://github.com/bverhoeve/build-my-app)
