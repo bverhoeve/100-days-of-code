@@ -16,3 +16,10 @@
 **Today's Progress**: Started the boilerplate for the frontend of `build-my-app` using Create React. I added React-Bootstrap to my application as well to have some better visuals. I want to include a bootstrap theme to give the website a little bit more charm. So, the rest of my time went to looking at possible Bootstrap themes. One that I liked in particular is the [Lazy kit](https://technext.github.io/lazy-kit), which I'm probably going to use. I still need to add it in to the application though.
 
 **Link to work:** [Build my app](https://github.com/bverhoeve/build-my-app)
+
+## Day 3: March 31, 2020
+**Today's Progress**: I successfully added the [Lazy kit](https://technext.github.io/lazy-kit) to the application! Then I wrestled a bit with React Router to figure out how to add my own home page. But in the end, I managed to create a new default route to my own page and redirect the Lazy kit routes to other URLs.
+
+**Thoughts**: I feel a bit guilty about skipping on yesterday. I started out for a couple of minutes, but then a friend called and I forgot about coding until it was too late to get started even. I do feel that I made quite a bit more progress today than I did the previous days. Although the `build-my-app` is still in boilerplate mode, more and more of the foundations are being laid to work further on.
+
+**Link to work**: [Build my app](https://github.com/bverhoeve/build-my-app)
