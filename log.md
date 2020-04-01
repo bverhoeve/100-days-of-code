@@ -23,3 +23,8 @@
 **Thoughts**: I feel a bit guilty about skipping on yesterday. I started out for a couple of minutes, but then a friend called and I forgot about coding until it was too late to get started even. I do feel that I made quite a bit more progress today than I did the previous days. Although the `build-my-app` is still in boilerplate mode, more and more of the foundations are being laid to work further on.
 
 **Link to work**: [Build my app](https://github.com/bverhoeve/build-my-app)
+
+## Day 4: April 1, 2020
+**Today's Progress**: Added a logo for Build My App. I added a navigation bar to the homepage. The layout isn't that nice yet but I'll fix it in the coming days.
+
+**Thoughts**: I only started working on the application late in the evening but I still managed to get some stuff done.
