@@ -28,3 +28,10 @@
 **Today's Progress**: Added a logo for Build My App. I added a navigation bar to the homepage. The layout isn't that nice yet but I'll fix it in the coming days.
 
 **Thoughts**: I only started working on the application late in the evening but I still managed to get some stuff done.
+
+## Day 5: April 8, 2020
+**Today's Progress**: I started working on a smaller project and put Build My App on hold for now. The reason for this is that the smaller project is in the context of aiding people in need for COVID-19, which I do find important. The project I started is called `viper`, where I'll implement a Battlesnake in order to compete in the Battlesnake competition for the Food Banks in Canada (https://play.battlesnake.com/)
+
+**Thoughts**: It has been a while that I've continued coding. I underestimated starting to work full time and still being able to commit to the challenge. I'll try again with the Battlesnake initiative!
+
+**Link to work**: [viper](https://github.com/bverhoeve/viper)
