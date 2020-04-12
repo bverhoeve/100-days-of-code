@@ -35,3 +35,11 @@
 **Thoughts**: It has been a while that I've continued coding. I underestimated starting to work full time and still being able to commit to the challenge. I'll try again with the Battlesnake initiative!
 
 **Link to work**: [viper](https://github.com/bverhoeve/viper)
+
+## Day 6: April 12, 2020
+**Today's Progress**: Continued work on my Battlesnake. I've successfully deployed the app to the Heroku platform, which was challenging! I also started working on the API, but realized I'll need to test the app as well, so I've started working on testing with `pytest`.
+
+**Thoughts**: I quite underestimated how rusty coding has become for me. I am a bit overwhelmed by all the things I once again need to learn, but I'll get there.
+
+**Link to work**: [viper](https://github.com/bverhoeve/viper)
+
