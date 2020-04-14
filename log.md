@@ -43,3 +43,10 @@
 
 **Link to work**: [viper](https://github.com/bverhoeve/viper)
 
+## Day 7: April 13, 2020
+**Today's Progress**: I continued to work on the Battlesnake. I started to work together with a friend on the app. The Battlesnake now has a functioning API and can play games against the Battlesnake engine. Next to that, the engine can now also run locally allowing to simulate games.
+
+**Thoughts**: Today I started working on the Battlesnake together with a friend, which was a very good idea! We actually coded a lot longer than one hour, in fact it was the better part of the afternoon. It was fun to feed of each others energy, and we both could bring knowledge to the table.
+
+**Link to work**: [viper](https://github.com/bverhoeve/viper)
+
