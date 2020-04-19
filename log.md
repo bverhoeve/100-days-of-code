@@ -50,3 +50,19 @@
 
 **Link to work**: [viper](https://github.com/bverhoeve/viper)
 
+## Day 8: April 18, 2020
+**Today's Progress**: Worked on my own on the Battlesnake. Implemented a basic collision detection algorithm that identifies the possible directions a snake can go in without dying.
+
+**Thoughts**: It feels good to work on something.
+
+**Link to work**: [viper](https://github.com/bverhoeve/viper)
+
+## Day 9: April 19, 2020
+**Today's Progress**: Worked on the Battlesnake with [sanderdewilde](https://github.com/sanderdewilde) We fixed an issue in production and added an algorithm that finds food based on the Euclidian distance.
+
+**Thoughts**: After deploying our snake and entering it into the global arena, it actually performed quite well! I'm happy to see the progress and I'm excited to see what will happen on game day.
+
+**Link to work**: [viper](https://github.com/bverhoeve/viper)
+
+
+
