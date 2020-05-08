@@ -64,5 +64,12 @@
 
 **Link to work**: [viper](https://github.com/bverhoeve/viper)
 
+## Day 10: May 8, 2020
+**Today's Progress**: I've started a new side project called 'wolk' It'll be a website that will help me more easily compare virtual machines across cloud providers, since this is an issue that I often have during my day job.
+
+**Thoughts**: I feel a bit bad to continue on day 10, given that it has been so long that I've actually progressed with the 100 days of code. After the Battlesnake competition, I wasn't really motivated on working on the build my app project anymore
+and I didn't feel like starting a new project. The other project just had a bit too large of a scope, so I've trimmed it down quite a bit with `wolk`. I hope by doing this that I can stick with the challenge better!
+
+**Link to work**: [wolk](https://github.com/bverhoeve/wolk)
 
 
