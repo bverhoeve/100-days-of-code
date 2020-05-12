@@ -79,4 +79,11 @@ and I didn't feel like starting a new project. The other project just had a bit 
 
 **Link to work**: [wolk](https://github.com/bverhoeve/wolk)
 
+## Day 12: May 12, 2020
+**Today's Progress**: I've made the top of the website a bit prettier, adding a navigation bar to the three main pages and the Github button.
+
+**Thoughts**: I've decided to get up a little bit earlier than other days, so I could start the day with a 'quick win' by working on the site for about an hour. It feels pretty good having created something before my workday even started!
+
+**Link to work**: [wolk](https://github.com/bverhoeve/wolk)
+
 
