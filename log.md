@@ -86,4 +86,11 @@ and I didn't feel like starting a new project. The other project just had a bit 
 
 **Link to work**: [wolk](https://github.com/bverhoeve/wolk)
 
+## Day 13: May 14, 2020
+**Today's Progress**: I've started to work on the main table of the homepage using Bootstrap 4 tables and a for loop in Jinja2. I've also restructured the codebase a bit to make it easier once the app starts to become larger.
+
+**Thoughts**: Implementing a basic table with Flask and Bootstrap was actually a lot easier than I thought!
+
+**Link to work**: [wolk](https://github.com/bverhoeve/wolk) [wolk app](https://wolk.herokuapp.com/)
+
 
