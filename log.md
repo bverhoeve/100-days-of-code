@@ -93,4 +93,11 @@ and I didn't feel like starting a new project. The other project just had a bit 
 
 **Link to work**: [wolk](https://github.com/bverhoeve/wolk) [wolk app](https://wolk.herokuapp.com/)
 
+## Day 14: May 17, 2020
+**Today's Progress**: Added a second page to the website and reworked the web app so pages can inherit from the base page that contains the navigation bar.
+
+**Thoughts**: I struggled a bit with a fairly simple bug on which I spent a good amount of time on. In the end, I was looking way too far since it was just a simple routing issue.
+
+**Link to work**: [wolk](https://github.com/bverhoeve/wolk) [wolk app](https://wolk.herokuapp.com/)
+
 
