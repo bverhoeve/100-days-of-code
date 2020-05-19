@@ -100,4 +100,11 @@ and I didn't feel like starting a new project. The other project just had a bit 
 
 **Link to work**: [wolk](https://github.com/bverhoeve/wolk) [wolk app](https://wolk.herokuapp.com/)
 
+## Day 15: May 19, 2020
+**Today's Progress**: Scraped and stored the data for the AWS EC2 instances from EC2Instances.info. Also added a coming soon message to my other pages.
+
+**Thoughts**: I coded a fair bit longer than other days, because I couldn't really quit when solving an issue. I should time myself a bit better if I'm to continue this coding marathon.
+
+**Link to work**: [wolk](https://github.com/bverhoeve/wolk) [wolk app](https://wolk.herokuapp.com/)
+
 
