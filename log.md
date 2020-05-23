@@ -107,4 +107,11 @@ and I didn't feel like starting a new project. The other project just had a bit 
 
 **Link to work**: [wolk](https://github.com/bverhoeve/wolk) [wolk app](https://wolk.herokuapp.com/)
 
+## Day 16: May 23, 2020
+**Today's Progress**: Fixed the navbar height issue, added all the columns for the AWS page.
+
+**Thoughts**: I ran into a couple of issues today. First off, the data on the Github repository of EC2.instances.info app apparently hasn't been updated in 5 months, leaving me to suspect that they store their data elsewhere. This also implies that I can't use the data from that repository, as it isn't up to date. This means that I'll have to scrape the data myself. Luckily, the repository is open source, so I should be able to use the code as a starter. Furthermore, I discovered that storing data on the ephemeral storage of Heroku is apparently not that straightforward nor practical. With the Heroku dynos being Docker images, persisting data is a bad idea anyways, so I'll have to store the data elsewhere. Since I need AWS credentials for the scraping anyways, I'll probably store the data in an S3 bucket, since it's cheap/free anyways. Making production apps is a lot harder than I thought!
+
+**Link to work**: [wolk](https://github.com/bverhoeve/wolk) [wolk app](https://wolk.herokuapp.com/)
+
 
