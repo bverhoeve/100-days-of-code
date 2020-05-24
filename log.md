@@ -114,4 +114,11 @@ and I didn't feel like starting a new project. The other project just had a bit 
 
 **Link to work**: [wolk](https://github.com/bverhoeve/wolk) [wolk app](https://wolk.herokuapp.com/)
 
+## Day 17: May 24, 2020
+**Today's Progress**: The site now gets up to date data from the S3 bucket `www.ec2instances.info`. Scraped data can also be uploaded to my own S3 bucket now
+
+**Thoughts**: I am feeling a bit frustrated today, as I haven't added a lot of code, and the code that I did add, looks like shit. At least I'm still working on the app.
+
+**Link to work**: [wolk](https://github.com/bverhoeve/wolk) [wolk app](https://wolk.herokuapp.com/)
+
 
