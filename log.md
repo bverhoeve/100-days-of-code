@@ -121,4 +121,11 @@ and I didn't feel like starting a new project. The other project just had a bit 
 
 **Link to work**: [wolk](https://github.com/bverhoeve/wolk) [wolk app](https://wolk.herokuapp.com/)
 
+## Day 18: May 26, 2020
+**Today's Progress**: Moved the app to the eu region and created a nightly job to load in the data. Wanted to work on the local caching, but that's apparently not working.
+
+**Thoughts**: At first, coding went well. Then I ran into a very frustrating issue with the AWS `boto3` library that I can't seem to figure out yet.
+
+**Link to work**: [wolk](https://github.com/bverhoeve/wolk) [wolk app](https://wolk.herokuapp.com/)
+
 
