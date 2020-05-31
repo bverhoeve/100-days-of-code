@@ -128,4 +128,17 @@ and I didn't feel like starting a new project. The other project just had a bit 
 
 **Link to work**: [wolk](https://github.com/bverhoeve/wolk) [wolk app](https://wolk.herokuapp.com/)
 
+## Day 19: May 30, 2020
+**Today's Progress**: Fixed the download from AWS S3.
+
+**Thoughts**:
+
+**Link to work**: [wolk](https://github.com/bverhoeve/wolk) [wolk app](https://wolk.herokuapp.com/)
+
+## Day 20: May 31, 2020
+**Today's Progress**: Added a landing page and started presenting the data on the AWS page.
+
+**Thoughts**: I coded a lot longer today than I usually do, but I made good progress on the site.
+
+**Link to work**: [wolk](https://github.com/bverhoeve/wolk) [wolk app](https://wolk.herokuapp.com/)
 
