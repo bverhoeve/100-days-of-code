@@ -142,3 +142,11 @@ and I didn't feel like starting a new project. The other project just had a bit 
 
 **Link to work**: [wolk](https://github.com/bverhoeve/wolk) [wolk app](https://wolk.herokuapp.com/)
 
+## Day 21: June 1, 2020
+**Today's Progress**: Added all the price data to the AWS page using Jinja2 macros. Added a `region` argument to the HTTP request on the AWS page that
+selects the region for which data is to be presented.
+
+**Thoughts**: This is a lot more work than I thought it would be.
+
+**Link to work**: [wolk](https://github.com/bverhoeve/wolk) [wolk app](https://wolk.herokuapp.com/)
+
